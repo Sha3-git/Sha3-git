@@ -4,7 +4,7 @@
 </div>
 
 
-### ੈ♡‧₊˚ Introduction ೄྀ࿐ˊˎ- <img height="40" src="https://i.pinimg.com/originals/4a/bc/26/4abc267a19d353131cd52fbec712fe8a.gif"/>
+### ✧ Introduction <img height="40" src="https://i.pinimg.com/originals/4a/bc/26/4abc267a19d353131cd52fbec712fe8a.gif"/>
 Hello! I am a software engineering student who loves programming, graphic design, and writing.
 
 In my free time, I am often working on small personal projects and keeping up with the latest news on recent developments in the tech industry. My interests lie in the human-computer relations of tech development and making applications as accessible and friendly for all users.
@@ -15,7 +15,7 @@ In my free time, I am often working on small personal projects and keeping up wi
 * ʚ I am interested in learning more about mobile application development!
 * ʚ Feel free to reach me via email- dabirishema@gmail.com
 
-### ੈ♡‧₊˚ Stats! ೄྀ࿐ˊˎ-
+### ✧ Stats!
 ![Shema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sha3-git&show_icons=true&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com?user=Sha3-git&theme=blueberry_duo)](https://git.io/streak-stats) 
 
