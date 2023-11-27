@@ -16,8 +16,9 @@ In my free time, I am often working on small personal projects and keeping up wi
 * ʚ Feel free to reach me via email- dabirishema@gmail.com
 
 ### ✧ Stats!
-![Shema's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sha3-git&show_icons=true&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Sha3-git&theme=blueberry_duo)](https://git.io/streak-stats) 
+![Sha3-git's Stats](https://github-readme-stats.vercel.app/api?username=Sha3-git&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
+![Sha3-git's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sha3-git&theme=material-palenight&hide_border=true)
+![Sha3-git's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sha3-git&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
 
 ### Thanks for visiting!
 [![](https://visitcount.itsvg.in/api?id=Sha3-git&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
