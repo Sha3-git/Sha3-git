@@ -1,6 +1,6 @@
 ## Hello I'm Shema! [![GitHub followers](https://img.shields.io/github/followers/Sha3-git.svg?style=social&label=Follow)](https://github.com/Sha?tab=followers)
 <div align="center">
-<img max-width="800" src="https://s11.gifyu.com/images/Facts-About-me.gif"/>
+<img max-width="800" src="https://s9.gifyu.com/images/SFsSz.gif"/>
 </div>
 
 
@@ -16,9 +16,8 @@ In my free time, I am often working on small personal projects and keeping up wi
 * ʚ Feel free to reach me via email- dabirishema@gmail.com
 
 ### ✧ Stats!
-![Sha3-git's Stats](https://github-readme-stats.vercel.app/api?username=Sha3-git&theme=material-palenight&show_icons=true&hide_border=true&count_private=true)
-![Sha3-git's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sha3-git&theme=material-palenight&hide_border=true)
-![Sha3-git's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sha3-git&theme=material-palenight&show_icons=true&hide_border=true&layout=compact)
+
+![Sha3-git's  GitHub stats](https://github-readme-stats.vercel.app/api?username=Sha3-git&show_icons=true&theme=moltack&title_color=3A1B0F&bg_color=F1F1F1&text_color=3A1B0F)
 
 ### Thanks for visiting!
 [![](https://visitcount.itsvg.in/api?id=Sha3-git&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
