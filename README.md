@@ -16,6 +16,7 @@ In my free time, I am often working on small personal projects and keeping up wi
    and auto humidifier which has applications in minimizing static discharge <br>
    in computer servers and overall hardware development environments
 * ʚ Feel free to reach me via email- dabirishema@gmail.com
+* ʚ Fun fact!I drew my profile picture 
 
 ### ✧ Stats!
 
