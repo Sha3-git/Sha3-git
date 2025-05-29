@@ -10,8 +10,7 @@ Hello! I am a software engineering student who loves programming, graphic design
 In my free time, I am often working on small personal projects and keeping up with the latest news on recent developments in the tech industry. My interests lie in the human-computer relations of tech development and making applications as accessible and friendly for all users.
 
 **Current Activities and Interests:**
-* ʚ I am working a discord bot as a hobby project!
-* ʚ I'm currently learning register-based programming for the arm cortex m3.
+* ʚ I am working on developing RTOS systems on the arm cortex m3
 * ʚ I have so far created and designed a temperature-humidity detector <br>
    and auto humidifier which has applications in minimizing static discharge <br>
    in computer servers and overall hardware development environments
