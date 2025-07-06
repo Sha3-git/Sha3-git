@@ -1,7 +1,4 @@
 ## Hello I'm Shema! [![GitHub followers](https://img.shields.io/github/followers/Sha3-git.svg?style=social&label=Follow)](https://github.com/Sha?tab=followers)
-<div align="center">
-<img max-width="800" src="https://s9.gifyu.com/images/SFsSz.gif"/>
-</div>
 
 
 ### ✧ Introduction <img height="40" src="https://i.pinimg.com/originals/4a/bc/26/4abc267a19d353131cd52fbec712fe8a.gif"/>
