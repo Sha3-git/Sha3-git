@@ -13,9 +13,6 @@ In my free time, I am often working on small personal projects and keeping up wi
 *  Feel free to reach me via email- dabirishema@gmail.com
 *  Fun fact!I drew my profile picture 
 
-### ✧ Stats!
-
-![Sha3-git's  GitHub stats](https://github-readme-stats.vercel.app/api?username=Sha3-git&show_icons=true&theme=moltack&title_color=3A1B0F&bg_color=F1F1F1&text_color=3A1B0F)
 
 ### Thanks for visiting!
 [![](https://visitcount.itsvg.in/api?id=Sha3-git&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
